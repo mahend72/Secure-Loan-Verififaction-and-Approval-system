@@ -18,7 +18,7 @@
   sqlite3 --version
   sqlite3 Secureloan.db #not required
 
-Procedure for Installation and Run
+#### Procedure for Installation and Run
 Step 1: Clone the Project
 Get the resource file from GitHub by cloning the project:
 
