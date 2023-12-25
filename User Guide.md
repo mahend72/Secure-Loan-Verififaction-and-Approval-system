@@ -22,8 +22,8 @@
 - Step 1: Clone the Project
 Get the resource file from GitHub by cloning the project:
 
-```bash
-git clone https://github.com/mahend72/Secure-Loan-Verififaction-and-Approval-system.git
+  ```bash
+  git clone https://github.com/mahend72/Secure-Loan-Verififaction-and-Approval-system.git
 
 
 - Step 2: Generate Keys
