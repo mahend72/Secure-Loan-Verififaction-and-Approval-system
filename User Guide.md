@@ -10,13 +10,14 @@
 - [Homomorphic Encryption](https://github.com/OpenMined/TenSEAL)
   ```bash
   pip install tenseal
+  
 SQLite Library
-bash
-Copy code
+```bash
 sudo apt-get update
 sudo apt-get install sqlite3
 sqlite3 --version
 sqlite3 Secureloan.db #not required
+
 Procedure for Installation and Run
 Step 1: Clone the Project
 Get the resource file from GitHub by cloning the project:
