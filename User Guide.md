@@ -10,7 +10,7 @@
 - [Homomorphic Encryption](https://github.com/OpenMined/TenSEAL)
   ```bash
   pip install tenseal
-  
+
 SQLite Library
 ```bash
 sudo apt-get update
@@ -22,9 +22,9 @@ Procedure for Installation and Run
 Step 1: Clone the Project
 Get the resource file from GitHub by cloning the project:
 
-bash
-Copy code
+```bash
 git clone https://github.com/mahend72/Secure-Loan-Verififaction-and-Approval-system.git
+
 Step 2: Generate Keys
 Run Key_generation.py to obtain public and private keys for each entity in the system.
 
